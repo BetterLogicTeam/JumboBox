@@ -1,0 +1,10 @@
+.bingo-card {
+    background-image: url('../Assets/bg.jpg');
+    background-size: cover;
+}
+/* @media screen and (max-width:600px) {
+    .maindiv_style{
+        overflow-y: scroll;
+        height: 25rem;
+    }
+} */
